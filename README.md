@@ -1,0 +1,2 @@
+# mongi
+dla treningu
